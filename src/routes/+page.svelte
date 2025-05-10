@@ -7,6 +7,7 @@
 	import About from '$lib/components/molecules/About.svelte';
 	import Footer from '$lib/components/molecules/Footer.svelte';
 	import InProgressFeatures from '$lib/components/molecules/InProgressFeatures.svelte';
+  import LocalFirst from '$lib/components/molecules/LocalFirst.svelte';
 </script>
 
 <svelte:head>
@@ -29,6 +30,7 @@
 	<Features />
 	<CitationFeatures />
 	<InProgressFeatures />
+  <LocalFirst />
   <Roadmap />
 	<About />
 </main>
