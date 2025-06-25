@@ -23,7 +23,7 @@
                     </a>
                 {/each}
                 <a 
-                    href="https://github.com/erti-rde" 
+                    href="https://github.com/erti-rde/tauri-editor" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     class="text-sm text-gray-600 hover:text-emerald-600 focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 rounded-md"

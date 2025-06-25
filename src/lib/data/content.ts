@@ -27,13 +27,6 @@ export const features: Feature[] = [
         status: 'completed',
         posterUrl: '/images/core-editor.webp',
         videoUrl: '/videos/core-editor.webm'
-    },
-    {
-        title: 'Source Metadata Editor',
-        description: 'Precisely control your citation metadata to ensure perfect formatting in your research documents.',
-        status: 'in-progress',
-        posterUrl: '/images/metadata-editor.webp',
-        videoUrl: '/videos/metadata-editor.webm'
     }
 ];
 
@@ -76,8 +69,8 @@ export const roadmapPhases: RoadmapPhase[] = [
                 quarter: 'Q2 2025',
                 title: 'Source Metadata Editor',
                 description: 'Enhanced control over citation metadata',
-                status: 'in-progress',
-                progress: 65,
+                status: 'completed',
+                progress: 100,
                 estimatedCompletion: '2025-05-30'
             },
             {
@@ -85,7 +78,7 @@ export const roadmapPhases: RoadmapPhase[] = [
                 quarter: 'Q3 2025',
                 title: 'Bibliography Generation & Footnotes',
                 description: 'Automatic creation of bibliography based on used citations and footnotes support',
-                status: 'planned',
+                status: 'in-progress',
                 progress: 10,
                 estimatedCompletion: '2025-08-15'
             }

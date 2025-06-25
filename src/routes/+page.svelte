@@ -6,8 +6,7 @@
 	import Roadmap from '$lib/components/molecules/Roadmap.svelte';
 	import About from '$lib/components/molecules/About.svelte';
 	import Footer from '$lib/components/molecules/Footer.svelte';
-	import InProgressFeatures from '$lib/components/molecules/InProgressFeatures.svelte';
-  import LocalFirst from '$lib/components/molecules/LocalFirst.svelte';
+	import LocalFirst from '$lib/components/molecules/LocalFirst.svelte';
 </script>
 
 <svelte:head>
@@ -29,9 +28,8 @@
 	<Hero />
 	<Features />
 	<CitationFeatures />
-	<InProgressFeatures />
-  <LocalFirst />
-  <Roadmap />
+	<LocalFirst />
+	<Roadmap />
 	<About />
 </main>
 

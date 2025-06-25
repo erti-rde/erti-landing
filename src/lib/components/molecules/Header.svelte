@@ -45,7 +45,7 @@
 
 			<div class="hidden items-center md:flex">
 				<a
-					href="https://github.com/erti-rde"
+					href="https://github.com/erti-rde/tauri-editor"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="text-gray-700 hover:text-emerald-600"
@@ -99,7 +99,7 @@
 						</a>
 					{/each}
 					<a
-						href="https://github.com/erti-rde"
+						href="https://github.com/erti-rde/tauri-editor"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="flex items-center text-gray-700 hover:text-emerald-600"
